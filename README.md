@@ -12,4 +12,4 @@
 
 # 🔗 Site
 * Link para acessar o site deste repositório:
-https://vaps41.github.io/CARDS_CSS/
+https://vaps41.github.io/CARDS_CSS/Index.html
